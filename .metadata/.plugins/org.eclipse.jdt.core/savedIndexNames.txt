@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Training\HackerRank\.metadata\.plugins\org.eclipse.jdt.core
+240384238.index
+4029311285.index
+3228541494.index
+281658912.index
+663853007.index

@@ -1,0 +1,196 @@
+2022-05-24 10:27:37,054 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-24 14:23:25,746 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-25 09:14:52,749 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-25 09:15:58,834 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:Countingpair:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\CountPair\pom.xml.
+2022-05-25 09:15:58,834 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:Countingpair:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\CountPair\pom.xml.
+2022-05-25 09:15:59,262 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:15:59,265 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\main\resources
+2022-05-25 09:15:59,272 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:15:59,273 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\test\resources
+2022-05-25 09:16:00,224 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stg:MaxRatingTest:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\pom.xml.
+2022-05-25 09:16:00,247 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,249 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\main\resources
+2022-05-25 09:16:00,254 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,256 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\test\resources
+2022-05-25 09:16:00,482 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stg:assignments:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\team formation\pom.xml.
+2022-05-25 09:16:00,501 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,502 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\team formation\src\main\resources
+2022-05-25 09:16:00,505 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,507 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\team formation\src\test\resources
+2022-05-25 09:16:00,614 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:distanceBetweenTwoPoints:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\distbetween2\pom.xml.
+2022-05-25 09:16:00,648 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,650 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\main\resources
+2022-05-25 09:16:00,652 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,654 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\test\resources
+2022-05-25 09:16:00,794 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stg:jumptotheflag:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\pom.xml.
+2022-05-25 09:16:00,828 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,830 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\main\resources
+2022-05-25 09:16:00,832 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,834 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\test\resources
+2022-05-25 09:16:00,936 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stg:priceCheck:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\priceCheck\pom.xml.
+2022-05-25 09:16:00,954 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,956 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\main\resources
+2022-05-25 09:16:00,958 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:00,960 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\test\resources
+2022-05-25 09:16:01,874 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:Countingpair:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\CountPair\pom.xml.
+2022-05-25 09:16:02,051 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:02,052 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\main\resources
+2022-05-25 09:16:02,054 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:02,056 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\test\resources
+2022-05-25 09:16:22,142 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-25 09:16:22,710 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stg:MaxRatingTest:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\pom.xml.
+2022-05-25 09:16:22,752 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:distanceBetweenTwoPoints:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\distbetween2\pom.xml.
+2022-05-25 09:16:22,791 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:Countingpair:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\CountPair\pom.xml.
+2022-05-25 09:16:22,833 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stg:priceCheck:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\priceCheck\pom.xml.
+2022-05-25 09:16:22,874 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stg:assignments:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\team formation\pom.xml.
+2022-05-25 09:16:22,911 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stg:jumptotheflag:0.0.1-SNAPSHOT @ D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\pom.xml.
+2022-05-25 09:16:23,066 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Countingpair/src/main/java
+2022-05-25 09:16:23,067 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Countingpair/src/test/java
+2022-05-25 09:16:23,177 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /distanceBetweenTwoPoints/src/main/java
+2022-05-25 09:16:23,177 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /distanceBetweenTwoPoints/src/test/java
+2022-05-25 09:16:23,262 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jumptotheflag/src/main/java
+2022-05-25 09:16:23,262 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jumptotheflag/src/test/java
+2022-05-25 09:16:23,304 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MaxMovieRatingSum/src/main/java
+2022-05-25 09:16:23,305 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MaxMovieRatingSum/src/test/java
+2022-05-25 09:16:23,390 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /priceCheck/src/main/java
+2022-05-25 09:16:23,390 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /priceCheck/src/test/java
+2022-05-25 09:16:23,466 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TeamFormation/src/main/java
+2022-05-25 09:16:23,467 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TeamFormation/src/test/java
+2022-05-25 09:16:24,014 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-05-25 09:16:24,279 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,281 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\main\resources
+2022-05-25 09:16:24,285 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,286 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\test\resources
+2022-05-25 09:16:24,679 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,682 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\main\resources
+2022-05-25 09:16:24,684 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,687 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\test\resources
+2022-05-25 09:16:24,713 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,714 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\team formation\src\main\resources
+2022-05-25 09:16:24,716 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,718 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\team formation\src\test\resources
+2022-05-25 09:16:24,745 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,747 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\main\resources
+2022-05-25 09:16:24,749 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,750 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\test\resources
+2022-05-25 09:16:24,778 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,779 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\main\resources
+2022-05-25 09:16:24,781 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,783 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\test\resources
+2022-05-25 09:16:24,818 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,820 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\main\resources
+2022-05-25 09:16:24,822 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:24,823 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\test\resources
+2022-05-25 09:16:39,209 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:39,215 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\main\resources
+2022-05-25 09:16:39,216 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:16:39,218 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\test\resources
+2022-05-25 09:17:24,154 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:17:24,157 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\main\resources
+2022-05-25 09:17:24,160 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:17:24,163 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\test\resources
+2022-05-25 09:17:32,151 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:17:32,153 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\main\resources
+2022-05-25 09:17:32,155 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:17:32,157 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\test\resources
+2022-05-25 09:18:12,373 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:12,375 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\main\resources
+2022-05-25 09:18:12,376 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:12,378 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\test\resources
+2022-05-25 09:18:15,957 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:15,959 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\main\resources
+2022-05-25 09:18:15,960 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:15,962 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\test\resources
+2022-05-25 09:18:32,416 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:32,418 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\main\resources
+2022-05-25 09:18:32,420 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:32,423 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\test\resources
+2022-05-25 09:18:37,560 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:37,562 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\main\resources
+2022-05-25 09:18:37,564 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:37,565 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\test\resources
+2022-05-25 09:18:50,220 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:50,224 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\main\resources
+2022-05-25 09:18:50,226 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:50,228 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\test\resources
+2022-05-25 09:18:54,606 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:54,608 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\main\resources
+2022-05-25 09:18:54,609 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:54,610 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\test\resources
+2022-05-25 09:18:59,733 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,735 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\main\resources
+2022-05-25 09:18:59,738 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,739 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\CountPair\src\test\resources
+2022-05-25 09:18:59,746 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,747 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\main\resources
+2022-05-25 09:18:59,748 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,750 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\MaxmovieRating\src\test\resources
+2022-05-25 09:18:59,764 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,766 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\team formation\src\main\resources
+2022-05-25 09:18:59,767 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,769 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\team formation\src\test\resources
+2022-05-25 09:18:59,783 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,784 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\main\resources
+2022-05-25 09:18:59,786 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,788 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\distbetween2\src\test\resources
+2022-05-25 09:18:59,803 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,804 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\main\resources
+2022-05-25 09:18:59,806 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,807 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\jumptotheflag\src\test\resources
+2022-05-25 09:18:59,824 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,825 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\main\resources
+2022-05-25 09:18:59,831 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:18:59,833 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\priceCheck\src\test\resources
+2022-05-25 09:19:17,770 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:19:17,772 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\team formation\src\main\resources
+2022-05-25 09:19:17,774 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:19:17,777 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Training\HackerRank\HackerRankSolutions\team formation\src\test\resources
+2022-05-25 09:21:55,313 [Worker-9: Creating project "accountcomparision"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:accountcomparision:0.0.1-SNAPSHOT @ D:\Training\HackerRank\accountcomparision\pom.xml.
+2022-05-25 09:21:55,359 [Worker-9: Creating project "accountcomparision"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /accountcomparision/src/main/java
+2022-05-25 09:21:55,360 [Worker-9: Creating project "accountcomparision"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /accountcomparision/src/main/resources
+2022-05-25 09:21:55,360 [Worker-9: Creating project "accountcomparision"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /accountcomparision/src/test/java
+2022-05-25 09:21:55,361 [Worker-9: Creating project "accountcomparision"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /accountcomparision/src/test/resources
+2022-05-25 09:21:55,620 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:21:55,634 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:21:55,636 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:21:55,638 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:22:13,820 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:accountcomparision:0.0.1-SNAPSHOT @ D:\Training\HackerRank\accountcomparision\pom.xml.
+2022-05-25 09:22:13,894 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:22:13,898 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:22:13,900 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:22:13,902 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:22:20,900 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-25 09:22:21,240 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:accountcomparision:0.0.1-SNAPSHOT @ D:\Training\HackerRank\accountcomparision\pom.xml.
+2022-05-25 09:22:21,301 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /accountcomparision/src/main/java
+2022-05-25 09:22:21,301 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /accountcomparision/src/main/resources
+2022-05-25 09:22:21,302 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /accountcomparision/src/test/java
+2022-05-25 09:22:21,302 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /accountcomparision/src/test/resources
+2022-05-25 09:22:21,439 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-05-25 09:22:21,574 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:22:21,575 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:22:21,577 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:22:21,578 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:22:44,362 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:22:44,366 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:22:44,367 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:22:44,368 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:23:44,769 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:23:44,772 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:23:44,775 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:23:44,777 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:23:48,959 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:23:48,963 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:23:48,965 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:23:48,967 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:23:52,959 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:23:52,960 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:23:52,962 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:23:52,963 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:24:31,158 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:24:31,162 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:24:31,165 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:24:31,168 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:24:49,023 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:24:49,025 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-25 09:24:49,027 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-25 09:24:49,028 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
